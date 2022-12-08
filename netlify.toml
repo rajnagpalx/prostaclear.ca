@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?affiliate=527914&vendor=prostaclr&tid="
+status = 301
+force = true
